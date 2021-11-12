@@ -21,14 +21,14 @@
      - 스택 / 큐 [ ]
   2. 콜백함수 ✅
   3. Promise ✅
-    - resolve, reject ✅
-    - Promise Chaining ✅
-    - state ✅
-    - 에러처리 ✅
+      - resolve, reject ✅
+      - Promise Chaining ✅
+      - state ✅
+      - 에러처리 ✅
   4. async & await ✅
-    - 제너레이터 [ ]
-    - iterator [ ]
-    - iterable object [ ]
+      - 제너레이터 [ ]
+      - iterator [ ]
+      - iterable object [ ]
 
 ### 드림코딩 자바스크립트
 
