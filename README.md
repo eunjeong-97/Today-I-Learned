@@ -10,22 +10,22 @@
 
 ## To Do List
 
-> 강의를 들은 경우 [x] 표시
+> 강의를 들은 경우 ✅ 표시
 > 관련된 주제 강의 추가적으로 듣고 블로그 정리
 
 ### 코어자바스크립트 세션
 
-  1. 동기 vs 비동기 [x]
+  1. 동기 vs 비동기 ✅
      - 실행 컨텍스트 [ ]
      - 이벤트 루프 [ ]
      - 스택 / 큐 [ ]
-  2. 콜백함수 [x]
-  3. Promise [x]
-    - resolve, reject [x]
-    - Promise Chaining [x]
-    - state [x]
-    - 에러처리 [x]
-  4. async & await [x]
+  2. 콜백함수 ✅
+  3. Promise ✅
+    - resolve, reject ✅
+    - Promise Chaining ✅
+    - state ✅
+    - 에러처리 ✅
+  4. async & await ✅
     - 제너레이터 [ ]
     - iterator [ ]
     - iterable object [ ]
@@ -42,8 +42,8 @@
 8. 배열 제대로 알고 쓰자 | 자바스크립트 배열 개념과 APIs 총정리 [ ]
 9. 유용한 10가지 배열 함수들 Array APIs 총정리 [ ]
 10. JSON 개념 정리와 활용방법 [ ]
-11. 비동기 처리의 시작 콜백 이해하기 | 콜백지옥 경험하기 [ ]
-12. 프로미스 개념부터 활용까지 [ ]
+11. 비동기 처리의 시작 콜백 이해하기 | 콜백지옥 경험하기 ✅
+12. 프로미스 개념부터 활용까지 ✅
 13. 비동기의 꽃 : Javascript async와 await, 유용한 Promise APIs [ ]
 14. 자바스크립트 함수 기본편 [ ]
 15. 자바스크립트 기초 1. 변수 : primitivd 타입과 object 의 차이점 [ ]
