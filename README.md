@@ -15,20 +15,26 @@
 
 ### 코어자바스크립트 세션
 
-  1. 동기 vs 비동기 ✅
-     - 실행 컨텍스트 [ ]
-     - 이벤트 루프 [ ]
-     - 스택 / 큐 [ ]
-  2. 콜백함수 ✅
-  3. Promise ✅
-      - resolve, reject ✅
-      - Promise Chaining ✅
-      - state ✅
-      - 에러처리 ✅
-  4. async & await ✅
-      - 제너레이터 [ ]
-      - iterator [ ]
-      - iterable object [ ]
+1. 동기 vs 비동기 ✅
+    - 실행 컨텍스트 [ ]
+    - 이벤트 루프 [ ]
+    - 스택 / 큐 [ ]
+2. 콜백함수 ✅
+3. Promise ✅
+    - resolve, reject ✅
+    - Promise Chaining ✅
+    - state ✅
+    - 에러처리 ✅
+4. async & await ✅
+    - 제너레이터 [ ]
+    - iterator [ ]
+    - iterable object [ ]
+
+1. Execution Context (실행컨텍스트) ✅
+2. Hoisting (호이스팅) ✅
+3. Scope (스코프) ✅
+4. Closure (클로저) ✅
+5. this ✅
 
 ### 드림코딩 자바스크립트
 
